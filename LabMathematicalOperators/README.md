@@ -29,14 +29,14 @@ Downcasting DOES need to worry about data loss. If you try to downcast a datatyp
 
 ## Conditional and Logical operators
 
-|Operator | Description|
-|---------|------------|
-|   <     | less than  |
-|   <=    |Less than or equal to|
-|   >     |greater than|
-|   >=    |greater than or equal to|
-|   ==    |equal to|
-|   !=    |not equal to|
-|   &&    | logical AND (short-circuit)|
-|  \| \|  | logical OR (short-circuit)|
+|Operator |      Description            | 
+|---------|-----------------------------|
+|   <     | less than                   |
+|   <=    |Less than or equal to        |
+|   >     |greater than                 |
+|   >=    |greater than or equal to     |
+|   ==    |equal to                     |
+|   !=    |not equal to                 |
+|   &&    | logical AND (short-circuit) |
+|  \| \|  | logical OR (short-circuit)  |
 
